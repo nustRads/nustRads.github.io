@@ -13,21 +13,21 @@ img_path: 'http://nustrads.github.io/static/img/blog'
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
+  name: 'NUST R.A.D.S'
+  first_name: '(R.A.D.S)'
+  last_name: 'Research And Development Society '
+  email: 'nustRads@gmail.com'
+  facebook_username: 'NUSTRADS'
+  github_username: 'nustRads'
   head_img: 'static/img/landing/Jack.jpg'
 
 # social link
 jingyu:
   first_name: ''
-  last_name: 'Celine'
-  description: 'Painter.'
+  last_name: 'Register now '
+  description: ''
   link: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+  email: 'nustRads@gmail.com'
 
 # landing page
 landing:

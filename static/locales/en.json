@@ -1,13 +1,13 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "NUST R.A.D.S"
   },
   "nav":{
     "home": "Home",
     "about_me": "About",
     "skills": "Skills",
     "projects": "Projects",
-    "career": "Career",
+    "career": "Progress",
     "blog": "Blog",
     "link": "Link"
   },
@@ -27,18 +27,18 @@
   },
   "career":{
     "my_career": "Our Progress so Far",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
+    "nextcode": "Something awesome coming soon",
+    "nextcode_des": "As NUST Research And Development Society we passionate about solving problems, so we are always coming up with new innovative solutions to challenges with the community , check back regurlarly to stay up to date with all our projects",
+    "nextcode_date": "Nov. 2016",
+    "nextcode_job": "Solving Problems",
+    "netease": "N.U.S.T Hackathon",
+    "netease_des": "A night of full on geek mode , as innovative students come together to hack on interesting projects.",
+    "netease_date": "T.B.A",
+    "netease_job": "Hackathon",
+    "ucloud": "Innovative Technology Development & Business Systems Expo",
+    "ucloud_des": "Hosting an expo focused on providing effective business Systems accross industries in Zimbabwe ,showcasing key deliverables and software products while exposing underrepresnted innovative talent in Zimbabwe ",
+    "ucloud_date": "Sep. 2016",
+    "ucloud_job": "Event Planning",
     "college": "Inception",
     "college_des": "Although intially thought of in May 2016 , idea only fully matured in Sept 2016. With the launch of the NUST R.A.D.S",
     "college_date": "Sept. 2016",
@@ -48,7 +48,7 @@
     "my_blog": "Blog"
   },
   "link":{
-    "link": "Link",
+    "link": "Interested  ?",
     "view": "views"
   }
 
